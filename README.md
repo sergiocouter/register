@@ -10,7 +10,7 @@
 > Criar um CRUD em React Js, para continuar aprendendo sobre a biblioteca e usar uma forma diferente de montar a interface.
 
 ## Desafios
-> O maior desafio foi criar a lógica da aplicação.
+> O maior desafio foi criar a lógica da aplicação e a utilização da biblioteca Chakra UI.
 
 ## Aprendizado
 > Aprendi bastante sobre a biblioteca Chakra UI, como mais uma opção de contrução do front-end.
