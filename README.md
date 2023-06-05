@@ -17,6 +17,7 @@
 
 ## Links
 > Link do deploy: https://register-mu.vercel.app/
+> Contato: https://beacons.ai/sergio_couter
 
 ## Imagens
 
