@@ -4,7 +4,7 @@
 > É um CRUD para cadastro de e-mails de clientes. Onde é possível registrar, editar e excluir um campo de e-mail.
 
 ## Tecnologias
-> React js, Chakra UI, Bootstrap 
+> React js, Chakra UI, Bootstrap.
 
 ## Objetivo
 > Criar um CRUD em React Js, para continuar aprendendo sobre a biblioteca e usar uma forma diferente de montar a interface.
